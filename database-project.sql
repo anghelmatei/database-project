@@ -1,3 +1,7 @@
+
+REMOVE RELATIONSHIP BETWEEN STOCKS AND TRANSACTIONS
+
+
 -- =================================================================
 -- Database Schema for Stock Trading Platform
 -- This script creates and populates tables for a stock trading platform
